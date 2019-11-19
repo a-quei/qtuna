@@ -1,0 +1,656 @@
+1	1	1	There are only blue squares.
+2	1	2	No circles, half red
+3	1	3	Equally devided blue objects
+4	1	4	Equal amount of red circles and blue squares
+5	1	5	Most of them are squares, all blue
+6	1	6	most red, all round
+7	1	7	the red square stands out in the crowd of blue circles
+11	2	1	All objects are blue squares.
+12	2	2	All objects are squares, half of them are blue.
+13	2	3	All objects are blue, half are squares.
+14	2	4	Half of the objects are blue squares. Half are red circles.
+15	2	5	All objects are blue, most are squares.
+16	2	6	All objects are circles, most are red.
+17	2	7	If there is a square, it is red. If there is a circle, it is blue. Most object are circles.
+18	2	8	Half of the object are blue squares. The other are circles in both colours.
+19	2	9	Half of the objects are blue squares. The other half are both shapes in red.
+20	2	10	All possible objects are shown.
+21	3	1	All the figures are blue squares. 
+22	3	2	All figures are squares, of which half are red.
+23	3	3	Half of the figures are circles. All figures are blue. 
+24	3	4	Half of the figures are circles, only those are red.
+25	3	5	There are 4 blue figures, of which 3 are squares.
+26	3	6	3 of the 4 circles are red.
+27	3	7	Most of the firgures are blue circles. The rest is a red square.
+28	3	8	There are as many circles as squares. Half of the circles is red, all squares are blue. 
+29	3	9	Half of the figures are red. Half of those are circles. The rest are squares.
+30	3	10	There is one of each possible type of figure.
+31	4	1	all of the objects are blue squares
+32	4	2	Half of the objects are blue squares, half of them are red squares
+33	4	3	half of the objects are blue squares, half of them are blue circles
+34	4	4	half of the objects are red circles, the rest is a blue square
+35	4	5	more than half of the objects are blue square. less than half are blue circles.
+36	4	6	more than half the objects are red circles, less than half but more than none are blue circles.
+37	4	7	more than half the objects are blue circles, less than half but more than none are red squares
+38	4	8	half the objects are squares, half of the circles are red.
+39	4	9	Not all the objects are squares, less half are red circles, less than half squares are red but not all are blue.
+40	4	10	half the objects are squares, half the squares are red, half the circles are red.
+41	5	1	There are only squares and all the squares are blue.
+42	5	2	There are only square and half of them are blue.
+43	5	3	All objects are blue and half of them squares.
+44	5	4	Same amount of circles and squares. The squares are blue and circles are red.
+45	5	5	There are more squares than circles and all objects are blue.
+46	5	6	There are only circles and the majority is red.
+47	5	7	There are more circles than squares and the circles are blue and squares are red.
+48	5	8	There are as many square as circles. All squares are blue and half of the circles are blue.
+49	5	9	There are more squares than circles. The majority of the squares is blue and circles are red.
+50	5	10	There are as many squares as circles. For each half of them are blue.
+51	6	1	All objects are blue squares.
+52	6	2	All objects are squares. Half of them are red and the other half are blue.
+53	6	3	All objects are blue of which the half consists of circles and the other half of squares.
+54	6	4	half of the objects are squares and the other half are circles. The squares are blue and the circles are red.
+55	6	5	All objects are blue. A quarter of the objects is a circle.
+56	6	6	All objects are circles. A quarter of the objects is blue.
+57	6	7	3/4 of the objects is a blue circle. Not all objects are blue.
+58	6	8	There are equally many squares as circles. One object is red and it is a circle.
+59	6	9	Half of the objects are blue objects. 3/4 of the objects are squares. 2/3 of the squares are blue.
+60	6	10	There are equally many circles as squares. of every types of objects, there is a different colour of.
+61	7	1	All of them are blue squares
+62	7	2	Halfof them are blue squares, half of them are red squares.
+63	7	3	They are all blue and helf of them are circles. 
+64	7	4	Half of them are blue squares and half of them are red circles.
+65	7	5	They are all blue squares, exceot a blue circle.
+66	7	6	All are circles and the majoirth, but not all, is red.
+67	7	7	More than half of them are blue circles and there is a red square. 
+68	7	8	Half of them are blue squares, the other half consist of circles in both colours.
+69	7	9	Half of them are blue squares, the other half is red and consist of both forms.
+70	7	10	 They are all different.
+71	8	1	All objects are blue squares.
+72	8	2	Half of the squares is red， the other half is blue
+73	8	3	all objects are blue. Half of them are squares, half of them are circles.
+74	8	4	There are equally many circles as squares. All circles are red, all squares are blue.
+75	8	5	All objects are blue. All of them are squares, except for the circle.
+76	8	6	All objects are circles. All circles are red, except for the blue circle.
+77	8	7	All circles are blue, the square is red.
+78	8	8	There are equally many circles as squares. All squares are blue, half the circles are blue.
+79	8	9	There are equally many blue objects as red objects. All blue objects are squares, half the red objects are circles.
+80	8	10	There are equally many red objects as blue objects. There are equally many circles as squares.
+81	9	1	All objects are blue squares.
+82	9	2	All objects are squares. Half of them are blue.
+83	9	3	All objects are blue. Half are squares. 
+84	9	4	half of the objects are red circles. The other half are blue squares.
+85	9	5	All objects are blue. There are both squares and circles, but more squares than circles.
+86	9	6	All objects are circles. Not all objects are in the same colour, but more are red than blue.
+87	9	7	There are only blue circles and red squares. There are more circles than square.
+88	9	8	Half of the objects are squares, all squares are blue. Half of the circles are blue.
+89	9	9	Half of the objects are blue. All blue objects are squares. Half of the red objects are squares.
+90	9	10	Half of the objects are squares. Both the squares and the circles are equally divided into red and blue.
+91	10	1	All the objects are blue squares.
+92	10	2	All the objects are squares and half of them is blue.
+93	10	3	All the objects are blue and half of them are circles.
+94	10	4	Half of the objects are red circles and the other half is opposite in each feature.
+95	10	5	There is a circle and all the objects are blue.
+96	10	6	All the objects are circles and one of them is blue.
+97	10	7	There is one red square and the other objects are the complete opposite.
+98	10	8	Half of the objects are blue squares. Half of the remaining is a red circle.
+99	10	9	There is only one red circle and half of the objects are blue.
+100	10	10	All the possible combinations of colour and shape are presented.
+101	11	1	All the objects are blue squares.
+102	11	2	All the objects are squares of which half of them are blue.
+103	11	3	All objects are blue and half of them circles.
+104	11	4	Half of the objects are blue squares, the other half are red circles.
+105	11	5	All objects are blue, and onlyn one of them is a circle.
+106	11	6	All objects are circles, only one of these is blue.
+107	11	7	There are three blue circles and one red square.
+108	11	8	Half of the objects are circles, of which one is red.
+109	11	9	Half of the objects are red, of which there is one circle. The other objects are squares.
+110	11	10	Half of the objects are circles. Half of the objects are red, but there is only one red circle.
+111	12	1	There are only blue squares.
+112	12	2	There are as many blue squares as red squares.
+113	12	3	There are as many blue squares as there are blue circles.
+114	12	4	There are equally man red circles as blue squares.
+115	12	5	There are more squares than circles. All shapes are blue.
+116	12	6	There are more red circles than blue circles. 
+117	12	7	There are more blue circles than red squares.
+118	12	8	There are equally as many squares and circles. Half the circles are blue, the other half is red.
+119	12	9	There are more squares than circles, the majority of squares is blue. The rest is red. The circles are red.
+120	12	10	There are equally many blue circles and blue squares, as there are red circles and red squares.
+121	13	1	All blue squares.
+122	13	2	Half blue, half red sqares.
+123	13	3	All blue, half squares.
+124	13	4	Half red circles. Half opposite.
+125	13	5	All blue. One circle.
+126	13	6	All are circles with one blue.
+127	13	7	A single red square with the rest blue circles.
+128	13	8	Three quarters blue, half blue squares.
+129	13	9	Half blue squares, the rest mixed red.
+130	13	10	All different.
+131	14	1	All objects are blue squares.
+132	14	2	All objects are squares and half of them are blue.
+133	14	3	All objects are blue and half of them are squares.
+134	14	4	Half of the objects are blue squares. The other half has different shape and colour.
+135	14	5	All objects are blue and only one of them is a circle.
+136	14	6	All objects are circles and only one of them is blue.
+137	14	7	There is one red square and all other objects have different shape and colour.
+138	14	8	Half of the objects are squares and the only red object is a circle.
+139	14	9	The only circle is a red one and half of all objects is blue.
+140	14	10	Half of the objects are squares and have different colours. The circles also have different colour.
+141	15	1	All of the displayed object and squares are blue.
+142	15	2	All objects are squares and half of them blue and half of them red.
+143	15	3	All of the objects are blue and half of them are squares. The other half are circles.
+144	15	4	All circles are red and all squares are blue. There are equally many circles as squares.
+145	15	5	All of the objects are blue and one quarter is a circle.
+146	15	6	All objects are circles and one quarter is blue, the res are red.
+147	15	7	All circles are blue and one quarter of all objects are red squares.
+148	15	8	Half of the objects are squares and blue. The other half are circles and half of them are red.
+149	15	9	Half of the objects are squares and the other half are circles. All squares can be divided into half blue and half red. The same account for the circles.
+150	15	10	Half of the objects are circles and the other half are squares. All circles are half red and half blue. The same accounts for the squares.
+151	16	1	all of the objects are blue squares
+152	16	2	All the objects are squares, half of them are blue.
+153	16	3	All the objects are blue. Half of them are squares.
+154	16	4	Objects of different types have different colour. Half of the objects are blue squares.
+155	16	5	All objects are blue. More than half of the objects are squares.
+156	16	6	All of the objects are circles, more than half are red.
+157	16	7	More tha n half of the objects are blue and circles.
+158	16	8	Half of the objects are squares. There are more blue objects than red.
+159	16	9	More than half of the objects are squares. Half of the objects are blue. More than  half of the squares are blue.
+161	17	1	All the objects are blue squares.
+162	17	2	All objects are squares. Half of them are red.
+163	17	3	All objects are blue . Half of them are squares.
+164	17	4	Half of the objects are red circles and half are blue circles.
+165	17	5	There are more squares than circles. All objects are blue.
+166	17	6	All objects are circles. There are more red than blue objects.
+167	17	7	There are more blue circles than red squares.
+168	17	8	Half the objects are circles, of these circles, half are red.
+169	17	9	There are more squares than circles. Half of the objects are red.
+170	17	10	Half the objects are squares. Of both the circles and the squares, half are red.
+171	18	1	All the objects are blue squares.
+172	18	2	Half the objects are blue squares, the other half red squares.
+173	18	3	All objects are blue, half square, half circles.
+174	18	4	Half the objects, are red circles. The other half are blue squares.
+175	18	5	All the objects are blue, one is a circle and the rest are squares.
+176	18	6	All the objects are circles, three of them are red.
+177	18	7	There is one red square and the rest are blue circles.
+178	18	8	Half of the objects are blue squares, other half are circles, one red one blue.
+179	18	9	Half the objects are blue squares, than there is a red circle and a red square.
+180	18	10	Half the objects are squares.  One red one blue, the other half are circle. One red one blue.
+181	19	1	There are only blue squares.
+182	19	2	There are only squares. Half of them are blue.
+183	19	3	There are equally many squares as circles, they are all blue. 
+184	19	4	There are equally many squares as circles. All squares are blue. All circles are red.
+185	19	5	There is one circle. All objects are blue.
+186	19	6	All the objects are circles. One of them is blue
+187	19	7	More than half are blue circles. The other one is completely different.
+188	19	8	There are equally many circles as squares. All squares are blue. Half the circles are blue.
+189	19	9	More than half are squares, of which more than half are blue. The other object is red.
+190	19	10	There are equally many squares as circles. Half the squares and circles are blue.
+191	20	1	There are only blue squares.
+192	20	2	All objects are squares. Half of the squares are red.
+193	20	3	All objects are blue, half of the objects are circles.
+194	20	4	There are equally many squares as circles. All circles are red, all squares are blue.
+195	20	5	All objects are blue and a quarter of hem are circles.
+196	20	6	There are only circles and a quarter of them are blue.
+197	20	7	A quarter of the objects are squares, all squares are red, all circles are blue.
+198	20	8	There are equally many squares as circles, half of the circles are red. All of the squares are blue.
+199	20	9	A quarter of the objects are circles, all circles are red, a third of the squares are red.
+200	20	10	There are equally many circles as squares. Half of both squares and circles are red.
+201	21	1	All objects are sqaures and blue.
+202	21	2	All blue objects are sqaures. There are equally many red squares as bleu squares.
+203	21	3	All objects are blue. There are equally squares as circles.
+204	21	4	There are equally many squares as circles. All squares are blue. All circles are red.
+205	21	5	All objects are blue. There are more squares than circles. Not all objects are squares.
+206	21	6	All objects are circles. There are more red circles than blue ones. Not all circles are red.
+207	21	7	There are more circles than squares. Not all objects are circles. All squares are red. All circles are blue.
+208	21	8	There are equally many circles as squares. All squares are blue. There are equally many red circle as blue circles.
+209	21	9	There are more squares than  circles. Not all objects are squares. There are more blue squares than red squares. Not all squares are blue. All circles are red.
+210	21	10	There are equally many sqaures as circles. There are equally many red objects as blue. There are equally many red circles as blue circles.
+211	22	1	All the objects are blue squares.
+212	22	2	All objects are squares with half of them being of the blue persuasion
+213	22	3	All objects are blue with half of them being squares.
+214	22	4	Half of the objects are red circles while the other half consists of blue squares.
+215	22	5	All of the objects are blue squares except for a blue circle.
+216	22	6	All of the objects are red circles except for a blue circle.
+217	22	7	All of the objects are blue circles except for a red square.
+218	22	8	There are equally as many blue circles and squares except for a red circle.
+219	22	9	Half of the objects are red and of the red half are squares. Concerning the blue half they are all squares.
+220	22	10	Half of the objects are squares and half of each type is a different color.
+221	23	1	All objects are blue squares.
+222	23	2	All objects are squares. Half of them are red.
+223	23	3	All objects are blue. Half of them are circles. 
+224	23	4	Half of the objects are squares. An object is blue iff it is a square.
+225	23	5	There is one circle, the other objects are squares. Every objects are blue.
+226	23	6	All objects are circles. Three are blue.
+227	23	7	All circles are blue. All squares are red. There are three time as many circles than squares.
+228	23	8	Half are blue squares. Half of the circles is blue.
+229	23	9	Half of the objects are blue. All blue objects are squares. Half of the remaining objects is a circle.
+230	23	10	There is one of every colour or shape combination.
+231	24	1	All objects are squares. All objects are blue.
+232	24	2	All objects are squares. Half of the objects are red.
+233	24	3	All objects are blue. Half of the objects are circles.
+234	24	4	Half of the objects are squares. All squares are blue. All circles are red.
+235	24	5	All objects are blue. There are three times as many squares as circles.
+236	24	6	All objects are round. There are three times more red circles as blue.
+237	24	7	There are three times more circles than squares. All circles are blue. All squares are red.
+238	24	8	Half of the objects are squares. Half of the circles are red. All squares are blue.
+239	24	9	There are three times more squares than circles. There are two times more blue squares than red ones. All circles are red.
+240	24	10	Half of the objects are circles. Half of the circles are red. Half of the squares are red.
+241	25	1	All objects are blue squares.
+242	25	2	All objects are squares. Half are blue and half are red.
+243	25	3	All objects are blue. Half are squares and half are circles.
+244	25	4	Half the objects are blue squares, the other half are red circles.
+245	25	5	All objects are blue. The majority is squares and minority is circle.
+246	25	6	All objects are circles. The majority is red and minority is blue.
+247	25	7	The majority of objects are blue circles, the remaining is red squares.
+248	25	8	Half the objects are blue squares and the other half are circles. Half the circles are red and remaiming are blue.
+249	25	9	Half the objects are red and half are blue squares. Half the red objects are square and remaining red circle.
+250	25	10	Half the objects are circles and the other half are squares. Half the total circles and half the total squares are red. The remaining are blue.
+251	26	1	The entire set of objects are blue squares.
+252	26	2	Squared with equal color distribution.
+253	26	3	Blue set of equavlant number of shapes.
+254	26	4	Circles and squares have opposing colours.
+255	26	5	All objects are blue and all objects are squared but the exception.
+256	26	6	The entire set is circular in shape and is majority red.
+257	26	7	Majority blue colore circles with contra colored shape.
+258	26	8	The set if majority blue and has equal number of shapes.
+259	26	9	Barring the exception, squares are blue and circles  red.
+260	26	10	Paired shapes with opposing colour schemas
+261	27	1	All objects are squares and blue.
+262	27	2	All of the objects are squares and half of them are red.
+263	27	3	All of the objects are blue and half of them are circles.
+264	27	4	Half of the objects are blue squares and the other half red circles.
+265	27	5	Most of the objects are squares and all of the objects are blue.
+266	27	6	All objects are circles and most of them are red.
+267	27	7	The objects are mostly blue circles, but also consist of another red square.
+268	27	8	There are as many squares as theere are circles. The squares are blue as well as half of the circles.
+269	27	9	The objects are mostly squares. Half of the objects are red and half of there red objects consist of circles.
+270	27	10	Half of the objects are circles. Also half of the all objects is blue.
+271	28	1	All objects are blue. All objects are squares.
+272	28	2	All objects are squares. Half of the objects are blue.
+273	28	3	All objects are blue. Half of the objects are squares.
+274	28	4	Half of the objects are red. All red objects are circles.
+275	28	5	All objects are blue. There are more squares than circles. Not all objects are squares.
+276	28	6	All objects are circles. Not all objects are red. There are more red than blue objects.
+277	28	7	There are more circles than squares. All circles are blue. All squares are red.
+278	28	8	Half of the objects areblue squares. Half of the circles are red.
+279	28	9	Half of the objects are red. All blue objects are squares. Half of the red objects are squares.
+280	28	10	Half of the objects are squares. Half of the squares are blue. Half of the circles are blue.
+281	29	1	There are only blue squares.
+282	29	2	There are only squares. Half of them are blue.
+283	29	3	All shapes are blue. Half of them are squares.
+284	29	4	Half of the shapes are blue squares. The other half are red circles.
+285	29	5	All shapes are blue. All but one of them is a square.
+286	29	6	All shapes are circles. Only one of them is blue.
+287	29	7	All but one shape are blue circles. That ne shape is a red square.
+288	29	8	Half of the shapes are blue squares. The other half are circles which are red and blue.
+289	29	9	Half of the shapes are blue squares. The other half are red, whih are a square and a circle.
+290	29	10	Half of the shapes are blue, which are a square and a circle. The other half is similar but red.
+291	30	1	All objects are blue squares.
+292	30	2	There are only squares. Half of the shapes is blue.
+293	30	3	There are only blue shapes. There are just as many squares as there are circles.
+294	30	4	The circles are red and the squares are blue.
+295	30	5	There are only blue shapes and the majority is a square, but not all of them are squares.
+296	30	6	There are only circles. More tha half of them is red, but not all of them.
+297	30	7	All circles are blue. There are more circles than squares. The shape that is in a minority is a different colour.
+298	30	8	All shapes are blue, which the circles have equally distributed colours.
+299	30	9	There are more squares than circles. Majority of the squares is blue. There are just as many red shapes as there are blue shapes.
+300	30	10	The shapes and colours are equally distributed.
+301	31	1	There are 4 squares. Every objects are blue.
+302	31	2	There are 9 sqaures, half the squares are red.
+303	31	3	Half the object are circles. All the objects are blue.
+304	31	4	Half the objects are squares. Only the circels are red.
+305	31	5	There are 3 times as many sqaures as circles. All of them are blue.
+306	31	6	There are no squares. One of the circles is blue.
+307	31	7	There are 3 times as many circles as squares. All the circles are blue.
+308	31	8	Half the objects are squares. There is one red circle.
+309	31	9	There are 3 times as many squares as circles. There are 2 blue squares.
+310	31	10	There as many circles as squares. Half of the circles and squares are blue.
+311	32	1	All objects are sqaures and blue.
+312	32	2	All objects are sqaures. Half of them are blue.
+313	32	3	All objects are blue. Half of them are squares.
+314	32	4	Half of the objects are squares. ALl squares are blue. All circles are red.
+315	32	5	All objects are blue. More than half are squares.
+316	32	6	All objects are circles. More than half are red.
+317	32	7	More than half the objects are circles. All circles are blue. All squares are red.
+318	32	8	Half of the objects are squares. All squares are blue. Half of the circles are blue.
+319	32	9	More than half the objects are squares. More than half the squares are blue. All circles are red.
+320	32	10	Half the objects are squares. Half the squares areblue. Half the circles are blue.
+321	33	1	All shapes are square and all squares are blue.
+322	33	2	All shapes are square and there are an equal amount of red and blue shapes.
+323	33	3	All shapes are blue and there are an equal amount of circles and squares.
+324	33	4	There are an equal amount of red and blue shapes and all circles are red.
+325	33	5	All shapes are blue and there are both circles and squares but more squares than circles.
+326	33	6	All shapes are circles and there are both blue and red shapes but more red ones than blue ones.
+327	33	7	All circles are blue but both colours are present and there are more circles than squares.
+328	33	8	All squares are blue and there are an equal amount of circles and squares and an equal amount of red and blue circles.
+329	33	9	All circles are red and there are half as many red squares as there are blue ones.
+330	33	10	All possible combinations of red and blue circles and squares are present.
+331	34	1	All the squares are blue.
+332	34	2	There are equally red and blue squares.
+333	34	3	There are equally many circles and squares. All the squares are blue. All the circles are blue.
+334	34	4	All the circles are red. All the squares are blue. There are equally many circles and squares.
+335	34	5	All squares and circles are blue. There are more squares than circles.
+336	34	6	All objects are circles, not all circles are red.
+337	34	7	All the circles are blue. All the squares are red. There are more circles than squares.
+338	34	8	All squares are blue. There in equally many squares and circles. Half of the circles is red. Half of the circle is blue.
+339	34	9	Half of the objects is red. All the circles are red. Not all squares is blue. There are more squares than circles.
+340	34	10	There are equally many squares and circles. Half of the squares is blue. Half of the circles is blue. Half of the squares is red. Half of the circles is red.
+341	35	1	All objects are blue squares.
+342	35	2	Half of the objects are blue squares, the other half are red.
+343	35	3	Half the objects are blue squares, the other half are red.
+344	35	4	Half the objects are blue squares, the other half are circles.
+345	35	5	3/4 of the objects are squares. All objects are blue.
+346	35	6	All objects are round, 3/4 of the objects are red.
+347	35	7	3/4 of the objects are blue circles, the rest is red squares.
+348	35	8	Half the objects are square, the other half are round. All squares are blue. Half the circles are red.
+349	35	9	3/4 of the objects are square, the rest are circles. 2/3 of the squares are blue. All other object are red.
+350	35	10	Half the objects are square. The rest are circles. Half the objects are red, half are blue. The colours are evenly divided amounst the shapes.
+351	36	1	All the objects are blue squares.
+352	36	2	All the objects are squares. Half of the objects are red. The other half is blue.
+353	36	3	All the objects are blue and half of the object are squares.
+354	36	4	Half of the objects are blue squares. Half of the objects are red circles.
+355	36	5	All objects are blue. More than half are squares and there is a circle.
+356	36	6	All the objects are circles and there is a red circle.
+357	36	7	More than half of the objects are blue circles, there is a red square.
+358	36	8	More than half of the objects are blue. Half of the object are squares. there is a red circle.
+359	36	9	Half of the objects are are blue squares. There are as many red circles as red squares.
+360	36	10	There are equally as many blue circles as there are red circles. Half of the objects are blue, half of the objects are squares.
+361	37	1	All the sqaures are blue. No circles are blue. No circles are red.
+362	37	2	Half of the squares is blue, the other half is red. No circles are blue, no circles are red.
+363	37	3	There is an equal amount of circles and squares. All objects are blue.
+364	37	4	All circles are red, all squares are blue. There are as many circles  as squares.
+365	37	5	All objects are blue. There are three times as many squares as circles.
+366	37	6	There are three times as many red circles as blue circles. No squares are blue and no squares are red.
+367	37	7	There are three times as many blue items as red items. Half of the circles is red.
+368	37	8	There are three times as many blue items as red items. Half of the circles is red.
+369	37	9	There is an equal amount of red and blue objects. All circles are red. There are more squares than circles.
+370	37	10	Half of the circles are red, half of the squares are red.
+371	38	1	There is only blue squares.
+372	38	2	There are only squares. Half of them are red.
+373	38	3	Half of the items are circles and everything is blue.
+374	38	4	There are as many circles as there are squares. All circels are red.
+375	38	5	There are three times as many squares as there are circles. Everything is blue.
+376	38	6	There are only circles. One fourth of them is blue.
+377	38	7	There are three times as many circles as there are squares. All squares are red and all circles are blue.
+378	38	8	Half of the items are blue squares. The other half are circles. Half of the circles is blue.
+379	38	9	One fourth of the items are red circles. There are three times as many squares as there are circles. One third of the squares is red.
+380	38	10	There are just as many blue items as there are red items, as there are circles.
+381	39	1	All of them are blue squares.
+382	39	2	There are only squares. Half of them are blue.
+383	39	3	Half of the objects are circles. All of the objects are blue.
+384	39	4	There are equally many squares and circeles. Both squares are the same color and they are both different color than the circles. There circles are red.
+385	39	5	All of them are blue. There is lesser circles than there are squares.
+386	39	6	All of them are circles. There is lesser blue circles than there are red ones.
+387	39	7	The square and the circles are of different color. The square is red.
+388	39	8	Half of them are squares. Half of the circles are red. Rest of the objects are blue.
+389	39	9	The circle is red. For the squares, there are lesser red ones than there are blue ones.
+390	39	10	There is one instance of every possible combination of shapes and colours.
+391	40	1	There are only squares, all blue.
+392	40	2	There are squares only, half of them are blue.
+393	40	3	All objects are blue. Half of the objects are squares.
+394	40	4	Half of the objects are red circles, the rest is blue squares.
+395	40	5	All objects are blue, are object is circle.
+396	40	6	All objects are circles, most are red.
+397	40	7	More objects are blue circles, the rest are red squares.
+398	40	8	Half of the objects are blue squares, the other half are circles of which half is blue.
+399	40	9	Half the objects are blue squares, the other half is red, of which half is a square.
+400	40	10	All four possible obejcts are presented.
+401	41	1	All of the objects are blue squares.
+402	41	2	Half of the objects are blue squares. The other half of the objects are red squares.
+403	41	3	Half of the objects are blue squares. The other half are blue circles. 
+404	41	4	Half of the objects are blue squares. The other half are red circles.
+405	41	5	Three fourth of the objects are blue squares. One fourth is a blue circle.
+406	41	6	There are only circles. Of which three fourth is red and one fourth is blue.
+407	41	7	Three fourth of the objects are blue circles. One fourth is a red square.
+408	41	8	Half of the objects are blue squares. The other half are circles, half of which are red.
+409	41	9	Half of the objects are red. The other half is blue. Half of the red objects is a circle. All blue objects are squares.
+410	41	10	Half of the objects are squares, the other half are circles. The circles do not have the same coulour and the same holds for the squares.
+411	42	1	All  are squares and the squares are blue. One placed in centered equidicted from others.
+412	42	2	All are squares. Half of squares are red and the rest are blue.
+413	42	3	 There are circles and squares of the same colour blue.
+414	42	4	There are half circlesand half squares. All the circles are red. The rest are blue.
+415	42	5	There are squares and circles. Three fourth of the shapes are square, where as the rest are circular. There are 4 shapes.
+416	42	6	All are circles. Three fourth of the circles are red. The rest is blue.
+417	42	7	There is a red square and the rest are circles of the blue colour.
+418	42	8	There are squares and circles. Half of the squares are blue. A circles is red.
+419	42	9	There is a circle and the rest are squares. One third of the squares are red.
+420	42	10	There are circles and squares. Half of the both different shapes are red and the rest are blue.
+421	43	1	All objects are blue squares.
+422	43	2	All objects are squares. Half of them are red. 
+423	43	3	Half of the objects are blue squares. The remaining objects are blue circles.
+424	43	4	Half of the objects are red circles. The other objects are blue squares.
+425	43	5	There are more squares than circles. ALl objects are blue.
+426	43	6	All objects are circles. Most of them are red.
+427	43	7	Most of the objects are blue circles. The square is red.
+428	43	8	Half of the objects are blue squares. Of the remaining objects, half are blue circles, half are red circles.
+429	43	9	Most objects are squares. The majority of the squares is blue. The circle is red.
+430	43	10	Half of the objects are squares. Half of them are red. With regards to the remaining objects, half of them are red.
+431	44	1	All objects are blue squares.
+432	44	2	All objects are squares. Half of the squares are red.
+433	44	3	All objects are blue. Half of the objects are squares.
+434	44	4	Half of the objects are circles. All circles are red. All squares are blue.
+435	44	5	Among the objects are both squares and circles. There are more squares than circles. All objects are blue.
+436	44	6	All objects are circles. Among the objects are both blue and red objetcs. There are more red than blue circles.
+437	44	7	Among the objects are both circles and squares. There are more circles than squares. All circles are blue. All squares are red.
+438	44	8	Half of the objects are circles. Half of the circles are blue. All squares are blue.
+439	44	9	Among the objects are both squares and circles. There are more squares than circles. All circles are red. Among the squares are both red and blue ones. There are more blue than red squares.
+440	44	10	All of the possible combinations of shape and colour occurs.
+441	45	1	All objects are blue squares.
+442	45	2	All objects are squares. Half of them are red.
+443	45	3	Half of the objects are circles. All of them are blue.
+444	45	4	Half of the objects are red circles. The other half are blue squares.
+445	45	5	More than half are squares. They are all blue.
+446	45	6	More than half of the circles are red.
+447	45	7	Most of the items are blue circles. The other is a red square.
+448	45	8	Half blue squares, half circles, but half of those circles is red.
+449	45	9	More than half are squares, but half of all the objects is red. Half of the objects is blue and squares. 
+450	45	10	Half of the objects are squares, but only half of these squares is red. The rest are red circles.
+451	46	1	All of the squares are blue. All of the objects are squares.
+452	46	2	All of the objects are squares. Half of the squares are blue.
+453	46	3	Half of the objects are squares. All of the objects are blue.
+454	46	4	Half of the objects are red circles. The other half are blue squares.
+455	46	5	Most of the objects are squares. All of the objects are blue.
+456	46	6	Most of the objects are red. All of the objects are circles.
+457	46	7	Most of the objects are blue circles. The remaining object is a red square.
+458	46	8	 Most of the objects are blue. Half of the objects are blue squares.
+459	46	9	Most of the objects are squares. Half of the objects are blue squares. Half of the objects are red.
+460	46	10	Each object has a unique shape-color combination.
+461	47	1	All the objects are squares. All the squares are blue.
+462	47	2	All objects are squares. Half of these objects is red, the others are blue.
+463	47	3	All objects are blue. half of them squares. Half of them circles.
+464	47	4	Half of the group is a red circle. The other half a blue square.
+465	47	5	All, but one object, are blue squares. The other is a blue circle.
+466	47	6	All objects are circles. One is blue the others red.
+467	47	7	There is a single red colour. The rest of the objects are blue circles.
+468	47	8	Half the objects are squares, the other are circles. One circle is red, the rest of the objects are blue.
+469	47	9	There is a single red circle, the other objects are squares. The majority, but not all, of this group is blue.
+470	47	10	Half of the objects are red, the others are blue. Both groups contain a circle and a square.
+471	48	1	There are only blue squares.
+472	48	2	All squares of which half is red.
+473	48	3	All blue items of which half are squares.
+474	48	4	Half of the items are red circles. The other are opposit in colour and shape.
+475	48	5	There are 1/3 of circles compare to the number of squares. All elements are blue.
+476	48	6	All are circles of which 1/4 is blue.
+477	48	7	1/4 is a red square, the other items are opposite in colour and shape.
+478	48	8	There is 1 red element which is a circle. Half of the elements are blue.
+479	48	9	There is only 1 red circle and half of the items are blue.
+480	48	10	Half of the items are blue, in each colour there is only one square.
+481	49	1	There are only squares. Everything is blue.
+482	49	2	There are only squares. Half of them are blue.
+483	49	3	There are equally many circles as squares. Everything is blue.
+484	49	4	There are equally many circles as squares. All squares are blue, all circles are red.
+485	49	5	Both squares and circles are present but more squares. Everything is blue.
+486	49	6	There are no squares. The figures are mostly red, but not all.
+487	49	7	There are more circles than squares, but both are present. The circles are blue and the rest not.
+488	49	8	There are equally many circles and squares. All squares are blue and half of the circles are blue.
+489	49	9	Both squares and circles are present, but more squares. Squares are cirther red or blue, but more are blue. Onlt red circles are present.
+490	49	10	Every colour and shape copmbination is present once.
+491	50	1	Only blue squares.
+492	50	2	All objects are square, of ehich half are blue.
+493	50	3	Half of the objects are squares. All objects are blue.
+494	50	4	Half the objects are squares. Only squares are blue.
+495	50	5	Only blue objects. A number of them are squares.
+496	50	6	Three quarter of the objects are red. All objects are circles. 
+497	50	7	There are more circles than  squares. There are no red circles. One object is red.
+498	50	8	Half of  the objects are blue squares. Of the other half of objects only are blue.
+499	50	9	There are more squares than circles. Half of the objects are red. Half of the objects are blue squares.
+500	50	10	Half of the objects are squares. For every object type, one is red and one is blue.
+501	51	1	All shapes are blue squares.
+502	51	2	All shapes are squares and there is an equal amount of red-coloured and blue-coloured squares.
+503	51	3	All shapes are blue. One half is a circles.
+504	51	4	There are equally amount of circles and squares. Squares are blue and circles are red.
+505	51	5	All shapes are blue coloured. There are more squares than circles.
+506	51	6	All shapes are circles and the majority is red coloured.
+507	51	7	The majority of the shapes are blue, circles. The rest is the direct opposite.
+508	51	8	There is an equally amount of squares and circles. The squares are all blue, however among the circles there are equally amount of red and blue coloured.
+509	51	9	The majority are squares. The circle is red coloured. The majority of the squares is also red coloured.
+510	51	10	There are equal amount of squares and circles. Each shape has a duplicate with another colour.
+511	52	1	All of the objects are blue squares.
+512	52	2	All of the objects are squares, but only half of them is blue.
+513	52	3	All of the objects are blue, but only half of them are squares.
+514	52	4	There are an equal amount of squares and circles. All the circles are red and all  the squares all blue.
+515	52	5	All of the objects are blue, most of them are squares.
+516	52	6	All of the objects are circles, most of them are red.
+517	52	7	 Most of the objects are blue circles.
+518	52	8	Half of the objects are blue squares. Half of the circles are red.
+519	52	9	Most of the objects are squares. Half of the objects are blue squares. Half of the objects are red.
+520	52	10	There are an equal amount of circles and squares. Half of the circles is red and half of the squares is red.
+521	53	1	All the objects are the same. One of them is a blue square.
+522	53	2	All 4 objects are square, half of them is blue, the rest red.
+523	53	3	All 4 objects are blue. Half of them are square. The rest circle.
+524	53	4	Half the shapes are blue squares. The rest are red circles.
+525	53	5	There are a total of 4 objects. All the objects are blue. The majority of the objects are square. The minority is circle.
+526	53	6	All 4 objects are circles. The majority is red, the minority is blue.
+527	53	7	The majority of the 4 objects are blue circles. The rest is a red square.
+528	53	8	Half of the 4 objects are square, they are all blue. Half of the circle is red, the rest blue.
+529	53	9	The majority of the shapes are square. The majority of the squares is blue. The minority is red. The minority of the shapes is  a circle that is red.
+530	53	10	Half of the 4 objects is square, the other half circle. each shape has both unique colours.
+531	54	1	All the four squares are blue. There are no circles.
+532	54	2	All the figures are squares. There are equally as many red squares as there are blue squares.
+533	54	3	All the figures are blue. There equally as many circles as squares.
+534	54	4	There are just as many squares as circles. The circles are red. The rest is blue.
+535	54	5	There are three blue squares. There is one blue circle.
+536	54	6	There are only circles. Three if them are red and one is blue.
+537	54	7	There are more circles than squares. The square is red. The circles are blue.
+538	54	8	There are equally as many circles as squares. All the squares are blue. Just one circles is red. The other circle is blue.
+539	54	9	There are more squares than circles. The only circles is red. There are more blue than red squares.
+540	54	10	There are equally as many circles as squares. Each shape has a red version and a blue version.
+541	55	1	There are only blue squares.
+542	55	2	Half of the squares is red, half of the squares is blue.
+543	55	3	Half of the objects are circles, half of the objects are squares. All objects are blue.
+544	55	4	Half of the objects are blue squares. Half of the objects are red circles.
+545	55	5	75% of the objects are squares, 25% are circles. All objects are blue.
+546	55	6	A quarter of the circles is blue. The rest is rest.
+547	55	7	There is a red square. The red are blue circles.
+548	55	8	Half of the objects are circles whom are half red and half blue. The rest is blue squared.
+549	55	9	There is a red circle, the rest is blue squared, except for one red square.
+550	55	10	Half of the circles are red, half of the squares are blue.
+551	56	1	All objects are blue squares.
+552	56	2	All objects are squares. Half of them are red.
+553	56	3	Half of the objects are squares. 
+554	56	4	Half of the objects are red circles  and others are blue squares.
+555	56	5	All of them are blue, but only one of them is circle.
+556	56	6	All of them are circles but one of them is blue.
+557	56	7	Blue objects are more than red ones. Each color has at least one object. Red objects are all squares.
+558	56	8	Blue objects are more than red ones. Each colour has at least one object. Red objects are all circles.
+559	56	9	Red objects are as much as blue objects. Each shape has same amount red objects.
+560	56	10	Each shape and colour has same amount objects.
+561	57	1	There are some squares, all are in blue.
+562	57	2	Some objects are here. All of them are squares. The number of red squares equals to the number of blue squares.
+563	57	3	All objects are in blue color. Half of them are squares.
+564	57	4	The amount of circles is as same as the amount of squares. All the squares are blue. All circles are red.
+565	57	5	All objects are in blue colour. Only one is circle.
+566	57	6	All objects are as same as circle. One of all objects is blue, the rest red.
+567	57	7	Two kinds of shapes in total. Circles are all in blue and the number of circles is as 3 times as the number of squares. Squares are in red colour.
+568	57	8	There are equally many circles as squares. Only one circle is red, the rest of the objects is blue.
+569	57	9	There are equally many blue objects as squares. half of circles and squares are in red, and the rest of them are blue.
+570	57	10	Two kinds of shapes in total. The number of blue circle is as same as the number of red circle. So is the squares.
+571	58	1	There are only squares. All of them are blue.
+572	58	2	There are only squares. They are equally divided in red and blue.
+573	58	3	Equal division of shapes and only the colour blue.
+574	58	4	Equal division of shapes. All the equares are blue. Other red.
+575	58	5	There are more squares than circles. Both the squares and circles are blue.
+576	58	6	There are only circles. Most of them are red.
+577	58	7	Most of the shapes are circles. The not circle is red.
+578	58	8	There are equally as many squares as circles. All the squares are blue, but not all the circles.
+579	58	9	Equal division of shapes. All the squares are blue, others red.
+580	58	10	Equal division of shapes and colors. All shapes are unique.
+581	59	1	All objects are square. All objects are blue.
+582	59	2	All objects are square. Half of the objects are red.
+583	59	3	All objects are blue. Half of the objects are circles.
+584	59	4	Half of the objects are squares. All squares are blue. All circles are red.
+585	59	5	More than half of the objects are squares. All objects are blue.
+586	59	6	More than half of the objects are red. All objects are circles.
+587	59	7	More than half of the objects are circles. All circles are blue. All squares are red.
+588	59	8	Half the objects are squares. Half of the circles are red. All squares are blue.
+589	59	9	More than half of the objects are squares. Half of the objects are blue. All circles are red.
+590	59	10	Half of the objects are squares. Half of the objects are blue. Half of the circles are red.
+591	60	1	All the objects are blue squares.
+592	60	2	All the objects are squares. Half the objects are blue.
+593	60	3	All the objects are blue. Half the objects are squares.
+594	60	4	There are equally many circles as squares. The squares are blue. The circle are red.
+595	60	5	All the objects are blue. More than half of the objects are squares.
+596	60	6	All the objects are circles. More than half of the circles are red.
+597	60	7	More than half of the objects are blue circles. The square is red.
+598	60	8	There are as many circles as squares. The squares and half the circles are blue.
+599	60	9	The majority of objects are squares. Half the objects are red. The majority of squares are blue.
+600	60	10	There are equally many circles and squares. Half the squares and half the circles are blue.
+601	61	1	All the objects are blue squares.
+602	61	2	All the objects are squares. Half are red.
+603	61	3	All the objects are blue. Half are circles.
+604	61	4	Half the objects are blue squares. The other are red circles.
+605	61	5	All objects are blue, but a single object not a square.
+606	61	6	Almost all the objects are circles, but a single one is not red.
+607	61	7	Almost all objects are blue circles, but one is a red squares.
+608	61	8	Half the objects are circles, half of which are red.
+609	61	9	Half the objects are red, half of which are circles.
+610	61	10	Half the objects are circles, but also half the objects are red.
+611	62	1	All objects are blue squares.
+612	62	2	All objects are squares. Half the squares are blue.
+613	62	3	All objects are blue. Half of the objects are squares.
+614	62	4	Half of the objects are blue squares. All circles are red.
+615	62	5	All objects are blue. A quarter of the objects is a circle.
+616	62	6	All objects are circles. A quarter of the circles is blue.
+617	62	7	There are three times as much blue circles as there are red squares.
+618	62	8	Half the objects are squares. Half the circles is red.
+619	62	9	Half the objects are red. Half of the red objects is a circle.
+620	62	10	Half the objects are red. Half of the red objects is a circle. Half of the blue objects is a circle.
+621	63	1	All squares are blue and of the same shape.
+622	63	2	They are all squares. Half of them are red. Half of them are blue.
+623	63	3	They are all blue. Half of them are squares. The other half circles.
+624	63	4	All circles are red and all squares are blue. There is an equal ratio of squares to circles.
+625	63	5	All objects are blue. 75% of them are squares. The remaining is a circle.
+626	63	6	There are more red circles than blue circles. They are all circles.
+627	63	7	The square is red. The remaining are blue circles.
+628	63	8	There are equal squares to circles. All squares are blue. Half the circles are red.
+629	63	9	There are more squares than circle, less than half the square are red.
+630	63	10	There is a colour for every shape. Half the shapes are square. Half the shapes were circles.
+631	64	1	All objects are blue squares.
+632	64	2	Half of all the objects are blue squares, the other half are blue circles.
+633	64	3	Half of all objects are blue squares. The other half are blue circles.
+634	64	4	Half of the objects are blue squares, the other half are red circles.
+635	64	5	All objects are blue. There are more squares than circles.
+636	64	6	 All objects are circles. There are more red circles than blue circles.
+637	64	7	There are more blue circles than red squares.
+638	64	8	Half of the objects are blue squares, the other half are circles. Half of the circles are blue, the other red.
+639	64	9	There are more squares tha circles. All circles are red. Half of the objects is blue.
+640	64	10	Every object appears in a different shape and colour.
+641	65	1	All objects are blue squares.
+642	65	2	All objects are squares. Half of them are red.
+643	65	3	There are four blue objects. Half of them are squares.
+644	65	4	half of the objects are red circles. The other half are blue squares.
+645	65	5	All objects are blue and one of them is a circle.
+646	65	6	There are four circles and only one of them blue.
+647	65	7	There are three circles and one square. The square is red and the circles are blue.
+648	65	8	Half of the objects are blue squares. The other half are circles of red and blue colour.
+649	65	9	Half of the objects are red. Three of the objects are squares and only one of them is red.
+650	65	10	Each type of object is present once.
+651	66	1	All of the objects are blue squares.
+652	66	2	All of the objects are squares, half of them blue. Half of them red.
+653	66	3	All objects are blue. Half of them circles, half of them squares.
+654	66	4	Half the objects are red circles, the other half blue squares.
+655	66	5	All of the objects are blue, only a quarter are circles.
+656	66	6	All of the objects are circles, a quarter is blue.
+657	66	7	A quarter of the objects are red squares, the rest are blue circles.
+658	66	8	Half the objects are blue squares. The other half are circles of different colors.
+659	66	9	Half the objects are blue squares. The other half different shapes of red.
+660	66	10	The objects are a unique varity of blue and red circles and squares.
