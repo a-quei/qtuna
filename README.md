@@ -1,6 +1,6 @@
 # QTUNA: a Corpus for the Generation of Quantified Statements
 
-The QTuna Dataset, which is detailed in the paper [*Introducing and Analysing QTuna: a Corpus for the Generation of Quantified Statements*](https://www.aclweb.org/anthology/W19-8616/), in the proceeding of 12th International Conference on Natural Language Generation (INLG 2019).
+The QTuna Dataset, which is detailed in the paper [*QTUNA: A Corpus for Understanding How Speakers Use Quantification*](https://www.aclweb.org/anthology/W19-8616/), in the proceeding of 12th International Conference on Natural Language Generation (INLG 2019).
 
 ## Introduction
 
