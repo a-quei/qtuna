@@ -1,6 +1,4 @@
-# QTUNA: a Corpus for the Generation of Quantified Statements
-
-The QTuna Dataset, which is detailed in the paper [*QTUNA: A Corpus for Understanding How Speakers Use Quantification*](https://www.aclweb.org/anthology/W19-8616/), in the proceeding of 12th International Conference on Natural Language Generation (INLG 2019).
+# QTUNA
 
 ## Introduction
 
@@ -24,23 +22,3 @@ The plain texts elicitated in the QTUNA experiments can be found in the `raw_dat
 
 ```
 where the second and the third colomns are the subject ID and the scene ID respectively.
-
-## Citation
-
-```
-@inproceedings{chen-etal-2019-qtuna,
-    title = "{QTUNA}: A Corpus for Understanding How Speakers Use Quantification",
-    author = "Chen, Guanyi  and
-      van Deemter, Kees  and
-      Pagliaro, Silvia  and
-      Smalbil, Louk  and
-      Lin, Chenghua",
-    booktitle = "Proceedings of the 12th International Conference on Natural Language Generation",
-    month = oct # " - " # nov,
-    year = "2019",
-    address = "Tokyo, Japan",
-    publisher = "Association for Computational Linguistics",
-    url = "https://www.aclweb.org/anthology/W19-8616",
-    pages = "124--129",
-}
-```
