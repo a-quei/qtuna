@@ -1,380 +1,378 @@
 1	1	1	All circles blue
-2	1	2	Mostly red squares & circles with blue squares and circles
-3	1	3	Almost all circles are blue%2C with a couple that are red.
-4	1	4	Mostly red shapes. More squares than circles. A significant amount of red squares and a few red circles. Less blue squares%2C however still more than blue circles with again only a couple of blue circles.
-5	1	5	Mostly blue squares%2C followed by blue circles. A couple of red squares and less than a couple red circles.
-6	1	6	Mostly red circles%2C followed by red squares. A small amount of blue squares with fewer blue circles than squares.
-7	1	7	All blue shapes. Mostly dominated by circles with slightly less squares.
-8	1	8	All red shapes with slightly more squares than circles.
+2	1	2	Almost all circles are blue%2C with a couple that are red.
+3	1	3	All blue shapes. Mostly dominated by circles with slightly less squares.
+4	1	4	Mostly red squares & circles with blue squares and circles
+5	1	5	Mostly red shapes. More squares than circles. A significant amount of red squares and a few red circles. Less blue squares%2C however still more than blue circles with again only a couple of blue circles.
+6	1	6	Mostly blue squares%2C followed by blue circles. A couple of red squares and less than a couple red circles.
+7	1	7	All red shapes with slightly more squares than circles.
+8	1	8	Mostly red circles%2C followed by red squares. A small amount of blue squares with fewer blue circles than squares.
 9	1	9	Mostly red squares%2C followed by less red circles. Fewer blue shapes%2C with mostly blue squares and less blue circles.
 10	1	10	Mostly red shapes%2C mostly red squares%2C followed by blue squares%2C then by red circles%2C then by blue circles with the lowest amount.
 11	2	1	all circles are blue
-12	2	2	Some circles and squares are red and the rest of them are bule
-13	2	3	Some of circles and squares are red and the rest of them are bule
-14	2	4	All the circles and squares are blue
-15	2	5	There are some red circles and squares and the rest of them are bule
+12	2	2	Most of circles are blue and a few of them are red
+13	2	3	All the circles and squares are blue
+14	2	4	Some circles and squares are red and the rest of them are blue
+15	2	5	Some of circles and squares are red and the rest of them are bule
 16	2	6	Most of circles and squares are blue and a few circles and squares are red
-17	2	7	Most of circles are blue and a few of them are red
-18	2	8	All the circles and squares are red
-19	2	9	Some circles and squares are red and the rest of them are blue
+17	2	7	All the circles and squares are red
+18	2	8	There are some red circles and squares and the rest of them are bule
+19	2	9	Some circles and squares are red and the rest of them are bule
 20	2	10	There are both blue and red circles and squares
 21	3	1	all objects are round and blue
-22	3	2	some objects are round%2C others are square. Some objects are blue%2C others are red.
-23	3	3	Shapes and colours are more blended. There is a balance between colours and shapes: squares%2C circles%2C red and blue.
-24	3	4	[empty]
-25	3	5	Fewer circles%2C the dominance of red.
-26	3	6	Fewer squares%2C the dominance of blue.
-27	3	7	shapes in both colours.
-28	3	8	shapes in both colours%2C more red dominance.
-29	3	9	just circles%2C blue predominance.
-30	3	10	more circles than squares%2C colour balance.
-31	4	1	there are small blue circles in the box
-32	4	2	There are mainly blue colored circles and squares in a box and a couple red ones
-33	4	3	[empty]
-34	4	4	There are 3 red circles in the box%2C the rest are blue
-35	4	5	blue and red squares and circles are scattered all over in the box
-36	4	6	All circles and squares in the box are red
-37	4	7	half of the circles and squares are red the other half blue
-38	4	8	11 of the circles and squares are red the rest are blue
-39	4	9	blue and red circles and squares are scattered all over in the box%2C mainly circles
-40	4	10	all 3 squares are blue%2C the rest are blue circles
-41	5	1	All of the tiny circles are blue.
-42	5	2	Half of the objects are blue and half is red.
-43	5	3	The majority of the objects are circles.
-44	5	4	The squares in this picture are both red and blue.
-45	5	5	All of the objects are red.
-46	5	6	The majority of the objects are circles.
-47	5	7	There are very few red circles.
-48	5	8	Red squares and circles dominate in this picture.
-49	5	9	The minority of objects are red squares and a red circle.
-50	5	10	All the objects almost evenly separated in the are based on color.
-51	6	1	all circles blue
-52	6	2	there are a mixture of red and blue circles and squares
-53	6	3	there are red circles and squares
-54	6	4	there are a mixture of red and blue circles and squares
-55	6	5	there are more red circles and squares as well as blue circles and squares
-56	6	6	there are red and blue circles and squares
-57	6	7	there are mostly blue circles and squares with a few red squares and one red circle
-58	6	8	there are blue circles and sqaures
-59	6	9	there are mostly blue circles with a few red circles
-60	6	10	there are a mixture of blue circles and squares and red circles and sqaures
-61	7	1	All circles are blue.
-62	7	2	It contains mainly blue circles with three squares dotted around.
-63	7	3	The grid contains about half squares and circles which are each half red and blue.
-64	7	4	It is a mixture of red and blue objects%2C with mainly squares and a few circles of each colour mixed in.
-65	7	5	This contains mainly circles with a few squares mixed in%2C and about half and half red and blue objects of each type.
-66	7	6	These are all red objects%2C slightly more squares than circles.
-67	7	7	These are half red and half blue objects of mainly circles but some squares mixed in.
-68	7	8	These are three red circles and the rest are blue.
-69	7	9	An entire grid of blue objects except for three red%2C and a mix of squares and circles.
-70	7	10	There are half red and half blue objects%2C and the blue objects are half squares and half circles%2C and the red are slightly more circles than squares.
-71	8	1	There are many scattered blue circles
-72	8	2	There is a series of blue circles and squares
-73	8	3	There are circles and squares%2C some being blue and some being red
-74	8	4	Various circles and squares coloured either red or blue are spread around
-75	8	5	There are many blue circles and squares%2C with 3 which are red
-76	8	6	There is an equal number of red and blue shapes%2C consisting of circles and squares
-77	8	7	There are a number of red and blue shapes scattered around the outskirts of the area
-78	8	8	There is a large number of red circles and squares
-79	8	9	There are red and blue circles and squares%2C with the top mostly being red and the bottom being primarily blue
-80	8	10	There are 3 red circles amongst a large spread of blue circles
-81	9	1	all circles are blue
-82	9	2	most circles are blue
-83	9	3	most squares and circles are blue
-84	9	4	circles and squares are blue and red
-85	9	5	most circles and squares are red
-86	9	6	some circles and squares are blue and some are red
-87	9	7	some circles and squares are blue and some are red
-88	9	8	some circles and squares are blue and and some are red
-89	9	9	circles and squares are blue
-90	9	10	squares and circles are red
-91	10	1	All circles are blue
-92	10	2	All objects are blue and red.
-93	10	3	All objects are blue.
-94	10	4	All objects are red.
-95	10	5	There are red and blue objects which are either squares or circles.%0A
-96	10	6	There are red and blue circles and squares.
-97	10	7	All objects are red or blue.
-98	10	8	All objects are red or blue.
-99	10	9	All objects are circles%2C most of which are blue.
-100	10	10	Most objects are blue but some of them are red. They can be squares or circles.
-101	11	1	All circles are blue.
-102	11	2	A mix of red and blue circles and squares.
-103	11	3	All red squares and circles.
-104	11	4	Red and blue circles and squares.
-105	11	5	Red and blue circles and squares.
-106	11	6	Seventeen blue circles and three red circles.
-107	11	7	Red and blue circles and squares.
-108	11	8	Almost all blue circles and squares.
-109	11	9	red and blue circles and squares.
-110	11	10	All blue circles and squares.
-111	12	1	All circles are blue
-112	12	2	Most circles are blue
-113	12	3	Most shapes are blue
-114	12	4	All shapes are red
-115	12	5	Some shapes are blue and some are red
-116	12	6	There are more red shapes than blue shapes
-117	12	7	There are more red shapes than blue shapes
-118	12	8	All shapes are blue
-119	12	9	There is slightly more red shapes than blue shapes
-120	12	10	There is an equal amount of red and blue shapes
-121	13	1	The circles are blue.
-122	13	2	The circles and squares are all blue.
-123	13	3	There is a mix of blue and red circles and squares.
-124	13	4	There is a majority of blue shapes%2C with a few red.
-125	13	5	Almost evenly split%2C there are both blue and red squares and circles.
-126	13	6	There is a mixture of blue and red circles and squares.
-127	13	7	The shapes are all circles and mostly blue.
-128	13	8	There is a mixture of blue and red circles and squares.
-129	13	9	All shapes are red and most are squares.
-130	13	10	There is a mixture of blue and red circles and squares.
-131	14	1	all bullets are blue
-132	14	2	there are red squares and bullet blue and red
-133	14	3	both squares and bullet%2C red and blues
-134	14	4	some red bullet and the rest are blues
-135	14	5	half part of the figure are done by red and blue squares and bullets
-136	14	6	a lot of red squares and bullets
-137	14	7	blue squares and bullets
-138	14	8	two red squares and one red bullet%2C all the other objects are blue
-139	14	9	red bullets and squares
-140	14	10	half part of blue squares and bullets%2C the other half part of red squares and bullets
-141	15	1	All circles are blue
-142	15	2	There are roughly equal amounts of red circles and squares.
-143	15	3	There are blue circles and squares%2C with two red squares and one red circle.
-144	15	4	There are roughly the same amount of circles and squares in red and blue.
-145	15	5	There are roughly the same of amount of circles and squares in red and blue.
-146	15	6	There are roughly the same of amount of circles and squares in red and blue.
-147	15	7	There are only circles. Three of them are red%2C the rest is blue.
-148	15	8	There are roughly the same of amount of circles and squares in red and blue.
-149	15	9	There are only blue shapes. Three of them are squares%2C the rest are circles.
-150	15	10	There are roughly the same of amount of circles and squares in red and blue.
-151	16	1	All objects are blue circles
-152	16	2	All the objects are blue with the majority as circles%2C but less than a fourth are squares.
-153	16	3	There are roughly equal amounts of red objects and blue objects with roughly equal amounts of circles and squares.
-154	16	4	Both squares and circles are present%2C and the objects are mostly blue with less than a quarter red.
-155	16	5	A slightly more than half mixed shapes proportion of objects are red%2C and the other half is blue with roughly equal amounts of each shape.
-156	16	6	One more than half of a mixed proportion of objects are red and the other half are red.
-157	16	7	A mixture of roughly half the objects are red and the other half are blue.
-158	16	8	All of the objects are circles with the majority blue and less than a quarter red.
-159	16	9	All objects are red with about three quarters of the objects as squares.
-160	16	10	A mixture of both shapes and red and blue is split about equally in half.
-161	17	1	All circles are blue
-162	17	2	Circles%2C squares and colors are equally distributed.
-163	17	3	There are three red circles%2C all others are blue.
-164	17	4	Red is overrepresented a bit compared to blue.
-165	17	5	All squares and circles are blue.
-166	17	6	The distribution of colors and forms is quite balanced.
-167	17	7	All forms are red.
-168	17	8	Red objects seem to outweigh blue objects.
-169	17	9	There seem to be more red than blue objects.
-170	17	10	There are only three red objects%2C all others are blue.
-171	18	1	only blue circles
-172	18	2	A mix of shapes and colors
-173	18	3	Most circles are blue%2C some are red
-174	18	4	Blue and red circles and squares
-175	18	5	Red and blue circles and squares
-176	18	6	Blue and red circles and squares spread across the sheet
-177	18	7	red circles and squares
-178	18	8	A few red objects around mostly blue shapes
-179	18	9	blue circles and squares
-180	18	10	mixed colored shapes
-181	19	1	all are blue circle
-182	19	2	Mix of square (red and blue) and circle(red and blue)
-183	19	3	Mix of red and blue squares and circles
-184	19	4	More of red circle and blue square than vice versa
-185	19	5	red circle and square
-186	19	6	red and blue circle
-187	19	7	Mix of red and blue squares and circles
-188	19	8	blue circle and square
-189	19	9	Mix of red and blue squares and circles
-190	19	10	Mix of red and blue squares and circles
-191	20	1	all circles are blue
-192	20	2	circles and squares are blue and red
-193	20	3	blue and red squares and circles
-194	20	4	blue and red circles and squares
-195	20	5	almost all circles are blue%2C some red
-196	20	6	blue and red circles and squares
-197	20	7	red circles and squares
-198	20	8	blue and red circles and squares
-199	20	9	blue circles and squares
-200	20	10	blue and red circles and squares
-201	21	1	There are only circles on the picture an they are blue.
-202	21	2	There are squares and circles on the picture. Some of them are red%2C some are blue. It looks like there is slightly more red objects than blue ones.
-203	21	3	There is a mixture of squares and circles%2C they are blue or red and quite spread out.
-204	21	4	There are blue and red circles and squares on the picture%2C but majority of the objects is blue.
-205	21	5	There are blue and red squares and circles on the picture. More than half of the objects is red.
-206	21	6	All the objects in the picture are blue. Majority of them are circles%2C the rest are squares.
-207	21	7	There are blue and red squares and circles in the picture. Hal of them is red%2C other half is blue. There is more circles than squares.
-208	21	8	All the objects in the picture are red. Majority of them are squares.
-209	21	9	There is a mixture of red and blue circles and squares on the picture. There is slightly more red objects.
-210	21	10	All the objects in the picture are circles and majority of them is blue.
-211	22	1	Blue circles
-212	22	2	Mix of blue and red circles and squares
-213	22	3	Mix of blue circles and squares
-214	22	4	Mix of blue and red circles and squares
-215	22	5	Mix of blue and red circles and squares
-216	22	6	Mostly blue circles and suqares
-217	22	7	Mostly red circles and squares
-218	22	8	Red circles and squares
-219	22	9	Mostly red circles and squares
-220	22	10	Mostly blue circles
-221	23	1	all circles are blue
-222	23	2	there is a mix of both blue and red squares and both blue and red circles
-223	23	3	there are mostly blue circles and squares
-224	23	4	there is an even mix of squares and circles that are red and blue
-225	23	5	they are all red shapes
-226	23	6	there is a mix of red and blue shapes
-227	23	7	there are mostly blue with some red circles
-228	23	8	there is a mix of blue and red shapes%2C both circles and squares
-229	23	9	there are mostly red and blue squares with some red and blue circles
-230	23	10	all the shapes are blue
-231	24	1	all circles are blue
-232	24	2	squares and circles%2C some are blue and some are red
-233	24	3	most of the shapes are blue
-234	24	4	seems like a equal split between colours
-235	24	5	everything is blue
-236	24	6	More red than blue
-237	24	7	everything is red
-238	24	8	most shapes are blue
-239	24	9	most shapes are red
-240	24	10	Only 3 red%2C the majority are blue
-241	25	1	All circles are blue
-242	25	2	All circles are either blue or red. All squares are either blue or red.
-243	25	3	There are some blue circles and squares. There are some red circles and squares.
-244	25	4	There are mostly blue circles and squares with a few red squares and circles.
-245	25	5	There is a medium number of red and blue squares and circles.
-246	25	6	All circles and squares are blue.
-247	25	7	All circles and squares are red.
-248	25	8	All but three red circles are blue.
-249	25	9	There are more red squares and circles than blue squares and circles.
-250	25	10	There are more blue squares and circles than red squares and circles.
-251	26	1	All circles are blue
-252	26	2	There is a mix of red circles and squares and blue circles and squares.
-253	26	3	There is a mix of red circles and squares and blue circles and squares
-254	26	4	There are more blue circles than red circles
-255	26	5	There are more blue circles than blue squares
-256	26	6	There are more red squares than red circles
-257	26	7	There are very few red items compared to blue items
-258	26	8	There are more blue circles than red and blue squares
-259	26	9	There are more red items than blue items
-260	26	10	There are more red squares and circles than blue squares and circles
-261	27	1	All circles are blue.
-262	27	2	All circles are red and all squares are red.
-263	27	3	Some circles are%2C red while other are blue. Some squares are red%2C while others are blue.
-264	27	4	Some circles are red%2C while others are blue. Some squares are red%2C while others are blue.
-265	27	5	All circles are blue and all squares are blue.
-266	27	6	One circle is red%2C while others are blue. Some squares are red%2C while others are blue.
-267	27	7	Some circles are red%2C while others are blue. Some squares are red%2C while others are blue.
-268	27	8	Some circles are red%2C while others are blue. Some squares are red%2C while others are blue.
-269	27	9	Some circles are red%2C while others are blue. Some squares are red%2C while others are blue.
-270	27	10	Some circles are red%2C while others are blue.
-271	28	1	there are many blue circles
-272	28	2	there are circles and squares%2C some are red and some are blue in each shape
-273	28	3	most of the shapes are red
-274	28	4	there are more squares than circles
-275	28	5	all but 3 of the shapes are blue
-276	28	6	there is an even split of red and blue shapes%2C but more are circles
-277	28	7	most of the shapes are squares%0A
-278	28	8	all of the shapes are red
-279	28	9	all of the shapes are blue
-280	28	10	all but 3 of the shapes are blue
-281	29	1	All objects are blue circles
-282	29	2	There are blue and red circles as well as blue and red squares
-283	29	3	There are blue circles and squares%2C and red circles and squares
-284	29	4	There are red circles and squares
-285	29	5	There are blue circles and squares
-286	29	6	There are blue circles and squares%2C and red circle and squares
-287	29	7	There are blue and red circles and squares
-288	29	8	There are blue circles and squares%2C and red circles and squares
-289	29	9	Objects are blue and red circles and squares
-290	29	10	Objects are blue and red circles
-291	30	1	All circles are blue.
-292	30	2	Some squares are blue. Some circles are blue. Some squares are red. Some circles are red.
-293	30	3	Some squares are blue. Some circles are blue. Some squares are red. Some circles are red.
-294	30	4	Some squares are blue. Some circles are blue. Two squares are red. One circle is red.
-295	30	5	All figures are red. Some are squares%2C other circles.
-296	30	6	All figures are circles. Three are red%2C the rest are blue.
-297	30	7	Some squares are red. Some circles are red. Some squares are blue. Some circles are blue.
-298	30	8	Some squares are red. Some circles are red. Some squares are blue. Some circles are blue.
-299	30	9	Some squares are red. Some circles are red. Some squares are blue. Some circles are blue.
-300	30	10	All figures are blue%2C both squares and circles. The majority are circles.
-301	31	1	They are all blue circles.
-302	31	2	An even mix of red and blue squares and circles.
-303	31	3	There are more red shapes than blue%2C but roughly equivalent numbers of squares and circles for each color.
-304	31	4	Red and blue squares and circles in even amounts.
-305	31	5	All of the shapes are blue and most are circles.
-306	31	6	All of the shapes are red and more of them are squares.
-307	31	7	Most of the shapes are blue circles and squares%2C except for two red squares and one red circle.
-308	31	8	An even mix of colors and shapes.
-309	31	9	An even mix of colors and shapes.
-310	31	10	All of them are circles%2C three are red.
-311	32	1	All circles are blue
-312	32	2	More objects are red than blue%2C more objects are squares than circles
-313	32	3	All objects are circles. Most objects are blue
-314	32	4	Most objects are red%2C and almost half of the objects are circles
-315	32	5	All objects are red%2C and most of the objects are squares
-316	32	6	Most objects are red%2C many objects are squares
-317	32	7	Most objects are squares%2C the colors are represented quite equally
-318	32	8	Both colors and both shapes are represented quite equally.
-319	32	9	All objects are blue%2C and most of the shapes are circles
-320	32	10	Both colors appear quite equally. Most objects are circles
-321	33	1	All circles blue
-322	33	2	Most figures blue
-323	33	3	Mix of red and blue figures
-324	33	4	Many red squares
-325	33	5	Mix of red and blue squares and circles
-326	33	6	Red objects
-327	33	7	Mostly blue circles
-328	33	8	Mostly red objects
-329	33	9	All blue objects
-330	33	10	Mix of red and blue figures
-331	34	1	All dots are blue
-332	34	2	There are both red and blue squares and dots
-333	34	3	There are scattered squares and dots of red and blue colour
-334	34	4	Squares and dots are red and blue
-335	34	5	There are blue squares and dots
-336	34	6	There are dots and squares of both blue and red colour
-337	34	7	Most of squares and dots are blue%2C but a few are red
-338	34	8	All squares and dots are red
-339	34	9	Most of dots are blue%2C few are red
-340	34	10	There are red and blue circles and squares
-341	35	1	ALL ARE CIRCLES BLUE%0A
-342	35	2	A HEALTHY MIX OF BLUE AND RED CIRCLES AND SQUARES
-343	35	3	MANY BLUE CIRCLES AND SQUARES%2C FEW RED
-344	35	4	ALL RED CIRCLES AND SQUARES%0A
-345	35	5	HALF RED%2C HALF BLUE CIRCLES AND SQUARES
-346	35	6	ALL BLUE CIRCLES AND SQUARES
-347	35	7	HALF RED%2C HALF BLUE CIRCLES AND SQUARES
-348	35	8	MANY BLUE CIRCLES%2C FEW RED CIRCLES
-349	35	9	A MIX OF BLUE AND RED CIRCLES AND SQUARES%0A
-350	35	10	EQUAL BLUE AND RED SQUARES%2C EQUAL BLUE AND RED CIRCLES%0A
-351	36	1	All circles are blue
-352	36	2	both squares and circles are red and blue.
-353	36	3	there are red circles%2C red squares%2C blue circles and blue squares
-354	36	4	there are red circles and red squares
-355	36	5	there are blue circles and blue squares
-356	36	6	there are blue circles%2C blue squares%2C red squares and a red circle
-357	36	7	there are blue circles%2C blue squares%2C red circles and red squares
-358	36	8	there are blue circles%2C blue squares%2C red circles and red squares
-359	36	9	there are red circles and blue circles
-360	36	10	there are red circles%2C red squares%2C blue circles and blue squares
-361	37	1	All circles are blue
-362	37	2	Majority of circles are blue%2C three are red
-363	37	3	A mix of red and blue squares and circles
-364	37	4	An equal spread of red and blue squares and circles
-365	37	5	An equal amount of red and blue squares and circles
-366	37	6	A V shape of red and blue squares and circles
-367	37	7	A deer's head shape in red and blue squares and circles
-368	37	8	A majority of blue squares and circles with few red ones
-369	37	9	Red circles and squares
-370	37	10	A majority of blue circles with a few blue squares
-371	38	1	all the circles are blue
-372	38	2	both circles and squares appear in both red and blue
-373	38	3	everything is blue and there are more circles than squares
-374	38	4	all types of forms are present in all colours
-375	38	5	the number of blue squares is equal to the number of blue circles%2C and there are more red circles than red squares
-376	38	6	there are more red squares than red circles but most squares or circles are blue
-377	38	7	there are more red squares than red circles and there is no blue
-378	38	8	most of the forms are squares%2C of which the amount of red squares is equal to the amount of blue ones%2C and there are fewer blue circles than red ones
-379	38	9	all the forms are circles%2C and only a very small amount of them are red
-380	38	10	half of the objects are red%2C half of them are blue and there are more circles than squares
+22	3	2	just circles%2C blue predominance.
+23	3	3	Fewer squares%2C the dominance of blue.
+24	3	4	more circles than squares%2C colour balance.
+25	3	6	some objects are round%2C others are square. Some objects are blue%2C others are red.
+26	3	7	Fewer circles%2C the dominance of red.
+27	3	8	shapes in both colours%2C more red dominance.
+28	3	9	Shapes and colours are more blended. There is a balance between colours and shapes: squares%2C circles%2C red and blue.
+29	3	10	shapes in both colours.
+30	5	1	there are small blue circles in the box
+31	5	2	There are 3 red circles in the box%2C the rest are blue
+32	5	3	all 3 squares are blue%2C the rest are blue circles
+33	5	4	blue and red circles and squares are scattered all over in the box%2C mainly circles
+34	5	6	There are mainly blue colored circles and squares in a box and a couple red ones
+35	5	7	All circles and squares in the box are red
+36	5	8	blue and red squares and circles are scattered all over in the box
+37	5	9	11 of the circles and squares are red the rest are blue
+38	5	10	half of the circles and squares are red the other half blue
+39	6	1	All of the tiny circles are blue.
+40	6	2	There are very few red circles.
+41	6	3	The majority of the objects are circles.
+42	6	4	The majority of the objects are circles.
+43	6	5	All the objects almost evenly separated in the are based on color.
+44	6	6	The minority of objects are red squares and a red circle.
+45	6	7	All of the objects are red.
+46	6	8	Half of the objects are blue and half is red.
+47	6	9	Red squares and circles dominate in this picture.
+48	6	10	The squares in this picture are both red and blue.
+49	8	1	all circles blue
+50	8	2	there are mostly blue circles with a few red circles
+51	8	3	there are blue circles and sqaures
+52	8	4	there are a mixture of blue circles and squares and red circles and sqaures
+53	8	5	there are a mixture of red and blue circles and squares
+54	8	6	there are mostly blue circles and squares with a few red squares and one red circle
+55	8	7	there are red circles and squares
+56	8	8	there are more red circles and squares as well as blue circles and squares
+57	8	9	there are red and blue circles and squares
+58	8	10	there are a mixture of red and blue circles and squares
+59	9	1	All circles are blue.
+60	9	2	These are three red circles and the rest are blue.
+61	9	3	It contains mainly blue circles with three squares dotted around.
+62	9	4	These are half red and half blue objects of mainly circles but some squares mixed in.
+63	9	5	It is a mixture of red and blue objects%2C with mainly squares and a few circles of each colour mixed in.
+64	9	6	An entire grid of blue objects except for three red%2C and a mix of squares and circles.
+65	9	7	These are all red objects%2C slightly more squares than circles.
+66	9	8	There are half red and half blue objects%2C and the blue objects are half squares and half circles%2C and the red are slightly more circles than squares.
+67	9	9	This contains mainly circles with a few squares mixed in%2C and about half and half red and blue objects of each type.
+68	9	10	The grid contains about half squares and circles which are each half red and blue.
+69	10	1	There are many scattered blue circles
+70	10	2	There are 3 red circles amongst a large spread of blue circles
+71	10	3	There is a series of blue circles and squares
+72	10	4	Various circles and squares coloured either red or blue are spread around
+73	10	5	There is an equal number of red and blue shapes%2C consisting of circles and squares
+74	10	6	There are many blue circles and squares%2C with 3 which are red
+75	10	7	There is a large number of red circles and squares
+76	10	8	There are a number of red and blue shapes scattered around the outskirts of the area
+77	10	9	There are circles and squares%2C some being blue and some being red
+78	10	10	There are red and blue circles and squares%2C with the top mostly being red and the bottom being primarily blue
+79	12	1	all circles are blue
+80	12	2	most circles are blue
+81	12	3	circles and squares are blue
+82	12	4	some circles and squares are blue and some are red
+83	12	5	some circles and squares are blue and some are red
+84	12	6	most squares and circles are blue
+85	12	7	squares and circles are red
+86	12	8	most circles and squares are red
+87	12	9	circles and squares are blue and red
+88	12	10	some circles and squares are blue and and some are red
+89	15	1	All circles are blue
+90	15	2	All objects are circles%2C most of which are blue.
+91	15	3	All objects are blue.
+92	15	4	There are red and blue objects which are either squares or circles.%0A
+93	15	5	There are red and blue circles and squares.
+94	15	6	Most objects are blue but some of them are red. They can be squares or circles.
+95	15	7	All objects are red.
+96	15	8	All objects are blue and red.
+97	15	9	All objects are red or blue.
+98	15	10	All objects are red or blue.
+99	16	1	All circles are blue.
+100	16	2	Seventeen blue circles and three red circles.
+101	16	3	All blue circles and squares.
+102	16	4	red and blue circles and squares.
+103	16	5	Red and blue circles and squares.
+104	16	6	Almost all blue circles and squares.
+105	16	7	All red squares and circles.
+106	16	8	Red and blue circles and squares.
+107	16	9	Red and blue circles and squares.
+108	16	10	A mix of red and blue circles and squares.
+109	17	1	All circles are blue
+110	17	2	Most circles are blue
+111	17	3	All shapes are blue
+112	17	4	There is an equal amount of red and blue shapes
+113	17	5	There is slightly more red shapes than blue shapes
+114	17	6	Most shapes are blue
+115	17	7	All shapes are red
+116	17	8	There are more red shapes than blue shapes
+117	17	9	There are more red shapes than blue shapes
+118	17	10	Some shapes are blue and some are red
+119	20	1	The circles are blue.
+120	20	2	The shapes are all circles and mostly blue.
+121	20	3	The circles and squares are all blue.
+122	20	4	There is a mixture of blue and red circles and squares.
+123	20	5	There is a mix of blue and red circles and squares.
+124	20	6	There is a majority of blue shapes%2C with a few red.
+125	20	7	All shapes are red and most are squares.
+126	20	8	There is a mixture of blue and red circles and squares.
+127	20	9	Almost evenly split%2C there are both blue and red squares and circles.
+128	20	10	There is a mixture of blue and red circles and squares.
+129	21	1	all bullets are blue
+130	21	2	some red bullet and the rest are blues
+131	21	3	blue squares and bullets
+132	21	4	there are red squares and bullet blue and red
+133	21	5	half part of the figure are done by red and blue squares and bullets
+134	21	6	two red squares and one red bullet%2C all the other objects are blue
+135	21	7	red bullets and squares
+136	21	8	both squares and bullet%2C red and blues
+137	21	9	half part of blue squares and bullets%2C the other half part of red squares and bullets
+138	21	10	a lot of red squares and bullets
+139	22	1	All circles are blue
+140	22	2	There are only circles. Three of them are red%2C the rest is blue.
+141	22	3	There are only blue shapes. Three of them are squares%2C the rest are circles.
+142	22	4	There are roughly the same amount of circles and squares in red and blue.
+143	22	5	There are roughly the same of amount of circles and squares in red and blue.
+144	22	6	There are blue circles and squares%2C with two red squares and one red circle.
+145	22	7	There are roughly equal amounts of red circles and squares.
+146	22	8	There are roughly the same of amount of circles and squares in red and blue.
+147	22	9	There are roughly the same of amount of circles and squares in red and blue.
+148	22	10	There are roughly the same of amount of circles and squares in red and blue.
+149	23	1	All objects are blue circles
+150	23	2	All of the objects are circles with the majority blue and less than a quarter red.
+151	23	3	All the objects are blue with the majority as circles%2C but less than a fourth are squares.
+152	23	4	There are roughly equal amounts of red objects and blue objects with roughly equal amounts of circles and squares.
+153	23	5	A mixture of both shapes and red and blue is split about equally in half.
+154	23	6	Both squares and circles are present%2C and the objects are mostly blue with less than a quarter red.
+155	23	7	All objects are red with about three quarters of the objects as squares.
+156	23	8	A slightly more than half mixed shapes proportion of objects are red%2C and the other half is blue with roughly equal amounts of each shape.
+157	23	9	One more than half of a mixed proportion of objects are red and the other half are red.
+158	23	10	A mixture of roughly half the objects are red and the other half are blue.
+159	24	1	All circles are blue
+160	24	2	There are three red circles%2C all others are blue.
+161	24	3	All squares and circles are blue.
+162	24	4	Circles%2C squares and colors are equally distributed.
+163	24	5	Red objects seem to outweigh blue objects.
+164	24	6	There are only three red objects%2C all others are blue.
+165	24	7	All forms are red.
+166	24	8	There seem to be more red than blue objects.
+167	24	9	The distribution of colors and forms is quite balanced.
+168	24	10	Red is overrepresented a bit compared to blue.
+169	27	1	only blue circles
+170	27	2	Most circles are blue%2C some are red
+171	27	3	blue circles and squares
+172	27	4	A mix of shapes and colors
+173	27	5	Red and blue circles and squares
+174	27	6	A few red objects around mostly blue shapes
+175	27	7	red circles and squares
+176	27	8	Blue and red circles and squares spread across the sheet
+177	27	9	Blue and red circles and squares
+178	27	10	mixed colored shapes
+179	28	1	all are blue circle
+180	28	2	red and blue circle
+181	28	3	blue circle and square
+182	28	4	More of red circle and blue square than vice versa
+183	28	5	Mix of square (red and blue) and circle(red and blue)
+184	28	6	Mix of red and blue squares and circles
+185	28	7	red circle and square
+186	28	8	Mix of red and blue squares and circles
+187	28	9	Mix of red and blue squares and circles
+188	28	10	Mix of red and blue squares and circles
+189	30	1	all circles are blue
+190	30	2	almost all circles are blue%2C some red
+191	30	3	blue circles and squares
+192	30	4	blue and red squares and circles
+193	30	5	blue and red circles and squares
+194	30	6	blue and red circles and squares
+195	30	7	red circles and squares
+196	30	8	blue and red circles and squares
+197	30	9	circles and squares are blue and red
+198	30	10	blue and red circles and squares
+199	31	1	There are only circles on the picture an they are blue.
+200	31	2	All the objects in the picture are circles and majority of them is blue.
+201	31	3	All the objects in the picture are blue. Majority of them are circles%2C the rest are squares.
+202	31	4	There are blue and red squares and circles in the picture. Hal of them is red%2C other half is blue. There is more circles than squares.
+203	31	5	There is a mixture of squares and circles%2C they are blue or red and quite spread out.
+204	31	6	There are blue and red circles and squares on the picture%2C but majority of the objects is blue.
+205	31	7	All the objects in the picture are red. Majority of them are squares.
+206	31	8	There are blue and red squares and circles on the picture. More than half of the objects is red.
+207	31	9	There are squares and circles on the picture. Some of them are red%2C some are blue. It looks like there is slightly more red objects than blue ones.
+208	31	10	There is a mixture of red and blue circles and squares on the picture. There is slightly more red objects.
+209	34	1	Blue circles
+210	34	2	Mostly blue circles
+211	34	3	Mix of blue circles and squares
+212	34	4	Mix of blue and red circles and squares
+213	34	5	Mix of blue and red circles and squares
+214	34	6	Mostly blue circles and suqares
+215	34	7	Red circles and squares
+216	34	8	Mostly red circles and squares
+217	34	9	Mostly red circles and squares
+218	34	10	Mix of blue and red circles and squares
+219	37	1	all circles are blue
+220	37	2	there are mostly blue with some red circles
+221	37	3	all the shapes are blue
+222	37	4	there is a mix of red and blue shapes
+223	37	5	there are mostly red and blue squares with some red and blue circles
+224	37	6	there are mostly blue circles and squares
+225	37	7	they are all red shapes
+226	37	8	there is a mix of both blue and red squares and both blue and red circles
+227	37	9	there is a mix of blue and red shapes%2C both circles and squares
+228	37	10	there is an even mix of squares and circles that are red and blue
+229	38	1	all circles are blue
+230	38	2	Only 3 red%2C the majority are blue
+231	38	3	everything is blue
+232	38	4	most shapes are blue
+233	38	5	seems like a equal split between colours
+234	38	6	most of the shapes are blue
+235	38	7	everything is red
+236	38	8	most shapes are red
+237	38	9	squares and circles%2C some are blue and some are red
+238	38	10	More red than blue
+239	40	1	All circles are blue
+240	40	2	All but three red circles are blue.
+241	40	3	All circles and squares are blue.
+242	40	4	There are some blue circles and squares. There are some red circles and squares.
+243	40	5	There are more blue squares and circles than red squares and circles.
+244	40	6	There are mostly blue circles and squares with a few red squares and circles.
+245	40	7	All circles and squares are red.
+246	40	8	There are more red squares and circles than blue squares and circles.
+247	40	9	There is a medium number of red and blue squares and circles.
+248	40	10	All circles are either blue or red. All squares are either blue or red.
+249	42	1	All circles are blue
+250	42	2	There are more blue circles than red circles
+251	42	3	There are more blue circles than blue squares
+252	42	4	There are more blue circles than red and blue squares
+253	42	5	There is a mix of red circles and squares and blue circles and squares
+254	42	6	There are very few red items compared to blue items
+255	42	7	There are more red squares than red circles
+256	42	8	There is a mix of red circles and squares and blue circles and squares.
+257	42	9	There are more red items than blue items
+258	42	10	There are more red squares and circles than blue squares and circles
+259	44	1	All circles are blue.
+260	44	2	Some circles are red%2C while others are blue.
+261	44	3	All circles are blue and all squares are blue.
+262	44	4	Some circles are red%2C while others are blue. Some squares are red%2C while others are blue.
+263	44	5	Some circles are red%2C while others are blue. Some squares are red%2C while others are blue.
+264	44	6	One circle is red%2C while others are blue. Some squares are red%2C while others are blue.
+265	44	7	All circles are red and all squares are red.
+266	44	8	Some circles are red%2C while others are blue. Some squares are red%2C while others are blue.
+267	44	9	Some circles are red%2C while others are blue. Some squares are red%2C while others are blue.
+268	44	10	Some circles are%2C red while other are blue. Some squares are red%2C while others are blue.
+269	46	1	there are many blue circles
+270	46	2	all but 3 of the shapes are blue
+271	46	3	all of the shapes are blue
+272	46	4	there is an even split of red and blue shapes%2C but more are circles
+273	46	5	there are more squares than circles
+274	46	6	all but 3 of the shapes are blue
+275	46	7	all of the shapes are red
+276	46	8	most of the shapes are squares%0A
+277	46	9	there are circles and squares%2C some are red and some are blue in each shape
+278	46	10	most of the shapes are red
+279	47	1	All objects are blue circles
+280	47	2	Objects are blue and red circles
+281	47	3	There are blue circles and squares
+282	47	4	There are blue and red circles as well as blue and red squares
+283	47	5	There are blue circles and squares%2C and red circles and squares
+284	47	6	There are blue circles and squares%2C and red circle and squares
+285	47	7	There are red circles and squares
+286	47	8	There are blue and red circles and squares
+287	47	9	Objects are blue and red circles and squares
+288	47	10	There are blue circles and squares%2C and red circles and squares
+289	48	1	All circles are blue.
+290	48	2	All figures are circles. Three are red%2C the rest are blue.
+291	48	3	All figures are blue%2C both squares and circles. The majority are circles.
+292	48	4	Some squares are red. Some circles are red. Some squares are blue. Some circles are blue.
+293	48	5	Some squares are blue. Some circles are blue. Some squares are red. Some circles are red.
+294	48	6	Some squares are blue. Some circles are blue. Two squares are red. One circle is red.
+295	48	7	All figures are red. Some are squares%2C other circles.
+296	48	8	Some squares are blue. Some circles are blue. Some squares are red. Some circles are red.
+297	48	9	Some squares are red. Some circles are red. Some squares are blue. Some circles are blue.
+298	48	10	Some squares are red. Some circles are red. Some squares are blue. Some circles are blue.
+299	49	1	They are all blue circles.
+300	49	2	All of them are circles%2C three are red.
+301	49	3	All of the shapes are blue and most are circles.
+302	49	4	An even mix of red and blue squares and circles.
+303	49	5	An even mix of colors and shapes.
+304	49	6	Most of the shapes are blue circles and squares%2C except for two red squares and one red circle.
+305	49	7	All of the shapes are red and more of them are squares.
+306	49	8	There are more red shapes than blue%2C but roughly equivalent numbers of squares and circles for each color.
+307	49	9	Red and blue squares and circles in even amounts.
+308	49	10	An even mix of colors and shapes.
+309	52	1	All circles are blue
+310	52	2	All objects are circles. Most objects are blue
+311	52	3	All objects are blue%2C and most of the shapes are circles
+312	52	4	Both colors appear quite equally. Most objects are circles
+313	52	5	Most objects are squares%2C the colors are represented quite equally
+314	52	6	Most objects are red%2C and almost half of the objects are circles
+315	52	7	All objects are red%2C and most of the objects are squares
+316	52	8	Most objects are red%2C many objects are squares
+317	52	9	Both colors and both shapes are represented quite equally.
+318	52	10	More objects are red than blue%2C more objects are squares than circles
+319	53	1	All circles blue
+320	53	2	Mostly blue circles
+321	53	3	All blue objects
+322	53	4	Mix of red and blue squares and circles
+323	53	5	Many red squares
+324	53	6	Most figures blue
+325	53	7	Red objects
+326	53	8	Mostly red objects
+327	53	9	Mix of red and blue figures
+328	53	10	Mix of red and blue figures
+329	54	1	All dots are blue
+330	54	2	Most of dots are blue%2C few are red
+331	54	3	There are blue squares and dots
+332	54	4	There are both red and blue squares and dots
+333	54	5	There are dots and squares of both blue and red colour
+334	54	6	Most of squares and dots are blue%2C but a few are red
+335	54	7	All squares and dots are red
+336	54	8	There are scattered squares and dots of red and blue colour
+337	54	9	Squares and dots are red and blue
+338	54	10	There are red and blue circles and squares
+339	55	1	ALL ARE CIRCLES BLUE%0A
+340	55	2	MANY BLUE CIRCLES%2C FEW RED CIRCLES
+341	55	3	ALL BLUE CIRCLES AND SQUARES
+342	55	4	A HEALTHY MIX OF BLUE AND RED CIRCLES AND SQUARES
+343	55	5	HALF RED%2C HALF BLUE CIRCLES AND SQUARES
+344	55	6	MANY BLUE CIRCLES AND SQUARES%2C FEW RED
+345	55	7	ALL RED CIRCLES AND SQUARES%0A
+346	55	8	EQUAL BLUE AND RED SQUARES%2C EQUAL BLUE AND RED CIRCLES%0A
+347	55	9	A MIX OF BLUE AND RED CIRCLES AND SQUARES%0A
+348	55	10	HALF RED%2C HALF BLUE CIRCLES AND SQUARES
+349	56	1	All circles are blue
+350	56	2	there are red circles and blue circles
+351	56	3	there are blue circles and blue squares
+352	56	4	there are blue circles%2C blue squares%2C red circles and red squares
+353	56	5	there are red circles%2C red squares%2C blue circles and blue squares
+354	56	6	there are blue circles%2C blue squares%2C red squares and a red circle
+355	56	7	there are red circles and red squares
+356	56	8	there are red circles%2C red squares%2C blue circles and blue squares
+357	56	9	both squares and circles are red and blue.
+358	56	10	there are blue circles%2C blue squares%2C red circles and red squares
+359	57	1	All circles are blue
+360	57	2	Majority of circles are blue%2C three are red
+361	57	3	A majority of blue circles with a few blue squares
+362	57	4	A deer's head shape in red and blue squares and circles
+363	57	5	An equal amount of red and blue squares and circles
+364	57	6	A majority of blue squares and circles with few red ones
+365	57	7	Red circles and squares
+366	57	8	A V shape of red and blue squares and circles
+367	57	9	An equal spread of red and blue squares and circles
+368	57	10	A mix of red and blue squares and circles
+369	58	1	all the circles are blue
+370	58	2	all the forms are circles%2C and only a very small amount of them are red
+371	58	3	everything is blue and there are more circles than squares
+372	58	4	half of the objects are red%2C half of them are blue and there are more circles than squares
+373	58	5	most of the forms are squares%2C of which the amount of red squares is equal to the amount of blue ones%2C and there are fewer blue circles than red ones
+374	58	6	there are more red squares than red circles but most squares or circles are blue
+375	58	7	there are more red squares than red circles and there is no blue
+376	58	8	the number of blue squares is equal to the number of blue circles%2C and there are more red circles than red squares
+377	58	9	all types of forms are present in all colours
+378	58	10	both circles and squares appear in both red and blue
